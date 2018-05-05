@@ -1,7 +1,6 @@
 //Luis Gerardo Bravo Ramones A01282014
 //Hector de Luna Pamanes A01282272
 //Super Sale Proy02A
-
 #include <iostream>
 #include <algorithm>
 #include <iomanip>
@@ -33,7 +32,7 @@ int backtracking() {
 int main() {
 	int suma=0;
 	int cases, people;
-	
+
 	cin >> cases;
 	for(int c=0; c < cases; c++) {
 		suma = 0;
