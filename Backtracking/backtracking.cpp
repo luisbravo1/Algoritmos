@@ -1,6 +1,7 @@
 //Luis Gerardo Bravo Ramones A01282014
 //Hector de Luna Pamanes A01282272
 //Super Sale Proy02A
+
 #include <iostream>
 #include <algorithm>
 #include <iomanip>
